@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Lodhi!;&color=9933ff" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Gopal+Lodhi!;&color=9933ff" />
 </h1>
 
 A passionate developer with a deep interest in building dynamic, responsive, and visually captivating applications. My work is all about creating engaging user experiences, and I'm constantly exploring new technologies and techniques to make my projects stand out. Here, you’ll find a variety of projects showcasing my skills and interests.
@@ -8,7 +8,7 @@ A passionate developer with a deep interest in building dynamic, responsive, and
 
 ## 👨‍💻 About Me
 
-- **🌱 Currently Learning:** Exploring advanced animation and interaction techniques using **React** and **GSAP**.
+- **🌱 Currently Learning:** Exploring **Devops** to master automation, CI/CD, and cloud infrastructure.
 - **💼 Experience:** Background in both front-end and back-end development, with a love for **C++**, **JavaScript**, and modern web frameworks.
 - **🚀 Goals:** Aiming to contribute to open-source projects, collaborate with other developers, and continue building a strong portfolio of innovative applications.
 - **💬 Ask Me About:** I’m always happy to talk about C++ data structures, JavaScript frameworks, and creating smooth animations in web applications.
