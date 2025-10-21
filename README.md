@@ -28,20 +28,21 @@ A passionate developer with a deep interest in building dynamic, responsive, and
 
 Check out some of my favorite projects below. These represent my best work and demonstrate my skills in different areas:
 
+### 💻 [Chat App](https://chamts.onrender.com/)
+**Description**: A real-time chat application built with the MERN stack — MongoDB, Express.js, React.js, and Node.js.
+It allows users to register, log in, and chat with others in real time using WebSockets (Socket.IO).
+- **Tech Stack**: React.js (Vite), Axios, Tailwind CSS (DaisyUI), Node.js, Express.js, MongoDB (Mongoose), JWT, bcrypt.js, cookie-parser, dotenv, Socket.IO.
+- **Highlights**: simple, light weight, easy to use, modern UI, different themes, secure Auth system and response for all devices.
+
 ### 🚀 [Code Saver](https://code-saver-nine.vercel.app/)
 **Description**: Code Saver is a lightweight, intuitive application designed to help developers save and organize their code snippets efficiently.
 - **Tech Stack**: JavaScript, React, Node.js,Tailwind,Redux 
 - **Highlights**: Key features like interactive animations, API integration, or performance optimizations.
 
-### 💻 [JBL Website](https://ghostfreak10.github.io/JBL-headphones/)
+###  [JBL Website](https://ghostfreak10.github.io/JBL-headphones/)
 **Description**: Discover a sleek, modern recreation of the JBL website, blending dynamic visuals with intuitive navigation.
 - **Tech Stack**: HTML, CSS, JavaScript,Swiper,Scroll Reveal 
 - **Highlights**: Experience a sleek, vibrant JBL website recreation with dynamic visuals, intuitive navigation, and seamless performance across all devices. 
-
-### 🎨 [Project 3 Name](link-to-project-3)
-**Description**: Talk about the inspiration or idea behind this project and how you implemented it.
-- **Tech Stack**: GSAP, HTML/CSS, JavaScript
-- **Highlights**: Mention any design elements, complex animations, or creative problem-solving approaches you applied.
 
 
 
@@ -53,8 +54,8 @@ I'm always interested in connecting with other developers, discussing ideas, and
 - Just have a friendly chat!
 
 ### 📫 How to Reach Me:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [https://www.linkedin.com/in/krishnagopallodhi/](https://www.linkedin.com/in/krishnagopallodhi/)
 - **Personal Website or Portfolio**: [https://your-website.com](https://your-website.com)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [krishnalodhi1003@gmail.com](krishnalodhi1003@gmail.com)
 
 Thank you for visiting my profile! I’m always looking for exciting new opportunities to grow and collaborate, so don’t hesitate to reach out. 😊
