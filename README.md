@@ -16,7 +16,7 @@ A passionate developer with a deep interest in building dynamic, responsive, and
 
 
 ## 🛠 Tech Stack & Skills
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,figma,tailwind,redux" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,cpp,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode,stackoverflow" /><br>
