@@ -57,7 +57,7 @@ I'm always interested in connecting with other developers, discussing ideas, and
 <p align="left">
   <a href="https://www.linkedin.com/in/krishnagopallodhi/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <!-- <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
-  <a href="krishnalodhi1003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:krishnalodhi1003@gmail.com?subject=Hello%20There&body=I%20found%20your%20GitHub!"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 Thank you for visiting my profile! I’m always looking for exciting new opportunities to grow and collaborate, so don’t hesitate to reach out. 😊
