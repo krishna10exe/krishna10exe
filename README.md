@@ -54,8 +54,10 @@ I'm always interested in connecting with other developers, discussing ideas, and
 - Just have a friendly chat!
 
 ### 📫 How to Reach Me:
-- **LinkedIn**: [https://www.linkedin.com/in/krishnagopallodhi/](https://www.linkedin.com/in/krishnagopallodhi/)
-- **Personal Website or Portfolio**: [https://your-website.com](https://your-website.com)
-- **Email**: [krishnalodhi1003@gmail.com](krishnalodhi1003@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishnagopallodhi/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <!-- <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
+  <a href="krishnalodhi1003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 Thank you for visiting my profile! I’m always looking for exciting new opportunities to grow and collaborate, so don’t hesitate to reach out. 😊
