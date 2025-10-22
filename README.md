@@ -16,7 +16,7 @@ A passionate developer with a deep interest in building dynamic, responsive, and
 
 
 ## 🛠 Tech Stack & Skills
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,figma,tailwind,redux" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,cpp,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode,stackoverflow" /><br>
@@ -54,7 +54,7 @@ I'm always interested in connecting with other developers, discussing ideas, and
 - Just have a friendly chat!
 
 ### 📫 How to Reach Me:
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/krishnagopallodhi/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <!-- <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
   <a href="krishnalodhi1003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
