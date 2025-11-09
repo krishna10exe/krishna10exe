@@ -39,7 +39,7 @@ It allows users to register, log in, and chat with others in real time using Web
 - **Tech Stack**: JavaScript, React, Node.js,Tailwind,Redux 
 - **Highlights**: Key features like interactive animations, API integration, or performance optimizations.
 
-###  [JBL Website](https://ghostfreak10.github.io/JBL-headphones/)
+###  [JBL Website](https://krishna10exe.github.io/JBL-headphones/)
 **Description**: Discover a sleek, modern recreation of the JBL website, blending dynamic visuals with intuitive navigation.
 - **Tech Stack**: HTML, CSS, JavaScript,Swiper,Scroll Reveal 
 - **Highlights**: Experience a sleek, vibrant JBL website recreation with dynamic visuals, intuitive navigation, and seamless performance across all devices. 
