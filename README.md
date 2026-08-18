@@ -2,23 +2,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Gopal+Lodhi!;&color=9933ff" />
 </h1>
 
-A passionate developer with a deep interest in building dynamic, responsive, and visually captivating applications. My work is all about creating engaging user experiences, and I'm constantly exploring new technologies and techniques to make my projects stand out. Here, you’ll find a variety of projects showcasing my skills and interests.
 
-
+A passionate developer with a strong interest in **MERN Stack development and problem solving**. I enjoy building dynamic, responsive, and visually engaging web applications while continuously improving my **Data Structures & Algorithms** skills. I love exploring new technologies, solving challenging problems, and turning ideas into real-world projects.
 
 ## 👨‍💻 About Me
 
-- **🌱 Currently Learning:** Exploring **Devops** to master automation, CI/CD, and cloud infrastructure.
-- **💼 Experience:** Background in both front-end and back-end development, with a love for **C++**, **JavaScript**, and modern web frameworks.
-- **🚀 Goals:** Aiming to contribute to open-source projects, collaborate with other developers, and continue building a strong portfolio of innovative applications.
-- **💬 Ask Me About:** I’m always happy to talk about C++ data structures, JavaScript frameworks, and creating smooth animations in web applications.
+- **🌱 Currently Learning:** Exploring the **MERN Stack** to build scalable and modern full-stack applications.
+- **💼 Experience:** Background in both front-end and back-end development, with a strong interest in **C++**, **JavaScript**, and modern web technologies.
+- **🧠 Problem Solving:** Passionate about **Data Structures & Algorithms**, competitive programming, and solving coding problems.
+- **🚀 Goals:** Aiming to contribute to open-source projects, collaborate with other developers, and continuously improve my development and problem-solving skills.
+- **💬 Ask Me About:** I’m always happy to talk about **MERN Stack, C++ Data Structures & Algorithms, JavaScript, React, Node.js**, and building full-stack applications.
 
 
 
 ## 🛠 Tech Stack & Skills
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,figma,tailwind,redux" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,cpp,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,figma,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,c,cpp,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode,stackoverflow" /><br>
 </div>
 
